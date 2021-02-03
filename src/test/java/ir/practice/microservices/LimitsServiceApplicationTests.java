@@ -1,4 +1,4 @@
-package ir.practice.microservices.limitsservice;
+package ir.practice.microservices;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

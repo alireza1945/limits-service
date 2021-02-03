@@ -1,4 +1,4 @@
-package ir.practice.microservices.limitsservice.bean;
+package ir.practice.microservices.bean;
 
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.stereotype.Component;

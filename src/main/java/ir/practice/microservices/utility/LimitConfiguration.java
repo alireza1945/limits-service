@@ -1,4 +1,4 @@
-package ir.practice.microservices.limitsservice.utility;
+package ir.practice.microservices.utility;
 
 public class LimitConfiguration {
 
